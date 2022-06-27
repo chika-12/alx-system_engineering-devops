@@ -1,1 +1,1 @@
-create local
+create global
