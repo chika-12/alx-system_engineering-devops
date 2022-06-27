@@ -1,1 +1,1 @@
-create global
+true knowledge
