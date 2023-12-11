@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 chika chika 4096 Dec 11 18:12 .
+drwxr-xr-x 6 chika chika 4096 Dec 11 17:09 ..
+-rwx------ 1 chika chika   32 Dec 11 17:11 0-hello_world
+-rwx------ 1 chika chika   28 Dec 11 17:14 1-confused_smiley
+-rwx------ 1 chika chika   28 Dec 11 17:20 2-hellofile
+-rwx------ 1 chika chika   39 Dec 11 17:30 3-twofiles
+-rwx------ 1 chika chika   29 Dec 11 17:31 4-lastlines
+-rwx------ 1 chika chika   29 Dec 11 17:33 5-firstlines
+-rwx------ 1 chika chika   40 Dec 11 17:46 6-third_line
+-rwx------ 1 chika chika   99 Dec 11 17:54 7-file
+-rwx------ 1 chika chika   36 Dec 11 18:12 8-cwd_state
+-rw-r--r-- 1 chika chika   41 Dec 11 17:10 README.md
+-rw-r--r-- 1 chika chika   12 Dec 11 17:54 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 chika chika  744 Dec 11 17:39 iacta
+-rw-r--r-- 1 chika chika    0 Dec 11 18:12 ls_cwd_content
