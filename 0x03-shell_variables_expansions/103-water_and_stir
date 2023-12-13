@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" "ibase=water;obase=bestchol;${WATER}+${STIR}" | dc
+printf "%s\n" "ibase=water" "obase=bestchol" "${WATER}+${STIR}" | dc
