@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#This script prints best school 10 times
+n=1
+while (( n <= 10 ))
+do
+	echo "Best School"
+	(( n++ ))
+done
