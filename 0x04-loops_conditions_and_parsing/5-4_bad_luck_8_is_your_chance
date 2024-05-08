@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+n=1
+while (( n <=10 ))
+do
+	if [ $n -ne 4 ] && [ $n -ne 8 ]
+	then
+		echo "Best School"
+	elif [ $n -eq 4 ]
+	then
+		echo "bad luck"
+	else
+		echo "good luck"
+	fi
+	(( n++))
+done
