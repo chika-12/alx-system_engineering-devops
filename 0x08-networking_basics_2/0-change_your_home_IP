@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#This script configures an ubuntu server
+cp /etc/hosts //etc/hosts.new
+echo "localhost 127.0.0.2" >> /etc/hosts
+echo "facebook.com 8.8.8.8" >> /etc/hosts
